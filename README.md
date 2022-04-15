@@ -14,7 +14,7 @@ I like changing problems and intrested in latest tech.
 
 - 💼 any freelance work? do reach, ✔️[Linkedin](https://www.linkedin.com/in/shiwam-tiwari-032905162/)
 ✔️[Mail](https://mail.google.com/mail/u/0/?view=cm&fs=1&to=zaqqst@gmail.com.com&su=SUBJECT&body=BODY&tf=1)
-- 💬 ask me about anything, i am happy to help;
+- 💬 ask me about anything, i am happy to help ✔️[twitter](https://twitter.com/Shiwam_c114) ;
 
 ## 🛠️ Technologies and Tools I use:
 
