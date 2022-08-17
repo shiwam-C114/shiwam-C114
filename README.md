@@ -93,6 +93,8 @@ I like changing problems and intrested in latest tech.
 <p align="center"> 
         <img height= "200px" width ="45%" src="https://github-readme-stats.vercel.app/api?username=shiwam-C114&theme=react&show_icons=true&include_all_commits=true" />
         <img height= "200px" width ="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiwam-c114&theme=react&layout=compact" />
+        <img height= "200px" width ="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=shiwam-c114&theme=react&layout=compact" />
+        <img src="https://activity-graph.herokuapp.com/graph?username=shiwam-C114&theme=react&layout=compact" />    
  </p>
 
 
