@@ -8,7 +8,7 @@
 
 An aspiring full-stack developer with a specialization in MERN stack with a passion for learning with an endless supply of optimism and curiosity.
 
-I like changing problems and intrested in latest tech.
+I like challenging problems and intrested in latest tech.
 
 
 - 💼 any freelance work? do reach, ✔️[Linkedin](https://www.linkedin.com/in/shiwam-tiwari-032905162/)
