@@ -1,5 +1,5 @@
 ### नमस्ते (Namaste)🙏🏻, I am Shiwam Tiwari !
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img align='right' rel:auto_play="1" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;&center=true&width=400&height=50">
 
 ![](https://visitor-badge.glitch.me/badge?page_id=shiwam-C114.shiwam-C114)
