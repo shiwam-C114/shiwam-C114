@@ -6,7 +6,7 @@
 
 <br />
 
-An aspiring full-stack developer with a specialization in MERN stack with a passion for learning with an endless supply of optimism and curiosity.
+A full-stack developer with a specialization in MERN stack, interest in web3 with a passion for learning with an endless supply of optimism and curiosity.
 
 I like challenging problems and intrested in latest tech.
 
